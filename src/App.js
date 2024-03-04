@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <button className="button" onClick={() => window.location.reload()}>Novo jogo</button>
-      <h1>Jogo da memória React!</h1>
+      <h1>Jogo da memória React</h1>
       <Cards />
     </div>
   );
